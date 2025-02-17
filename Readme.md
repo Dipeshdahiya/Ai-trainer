@@ -109,11 +109,11 @@ The frontend is built with **Next.js** and displays the fitness tracker UI.
   ```
 
 ### 🔹 Frontend Issues
-- If `npm run dev` fails, try:
+- 1. If `npm run dev` fails, try:
   ```sh
   rm -rf node_modules package-lock.json && npm install
   ```
-- Restart the server if the UI doesn’t update.
+- 2.Restart the server if the UI doesn’t update.
 
 ---
 
